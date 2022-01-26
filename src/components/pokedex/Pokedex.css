@@ -30,8 +30,10 @@
 @media screen and (max-width: 576px) {
     .pokelist-container{
         height: 400px;
+        border-radius: 10px;
     }
     .pokesearchresult-container{
         height: 400px;
+        border-radius: 10px;
     }
 }

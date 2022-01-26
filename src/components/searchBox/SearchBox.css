@@ -13,3 +13,18 @@
         font-size: 12px;
     }
 }
+
+@media screen and (max-width: 400px){
+    .search {
+        width: 190px;
+        font-size: 9px;
+    }
+}
+
+@media screen and (max-width: 360px){
+    .search {
+        width: 140px;
+        font-size: 8px;
+        padding: 15px 8px;
+    }
+}
