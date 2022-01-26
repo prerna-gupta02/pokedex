@@ -26,3 +26,12 @@
     background-color: rgba(252, 126, 47, 0.6);
     border-radius: 1px 10px 10px 1px;
 }
+
+@media screen and (max-width: 576px) {
+    .pokelist-container{
+        height: 400px;
+    }
+    .pokesearchresult-container{
+        height: 400px;
+    }
+}

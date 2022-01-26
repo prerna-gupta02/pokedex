@@ -16,3 +16,9 @@
     height: 120px;
     padding: 12px;
 }
+
+@media screen and (max-width: 576px) {
+    .poke-result-card{
+        font-size: 14px;
+    }
+}

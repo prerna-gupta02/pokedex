@@ -6,3 +6,10 @@
     margin: 15px;
     font-family: 'Press Start 2P', cursive;
 }
+
+@media screen and (max-width: 455px) {
+    .search{
+        width: 230px;
+        font-size: 12px;
+    }
+}
